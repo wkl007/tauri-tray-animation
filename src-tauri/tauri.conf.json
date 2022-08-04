@@ -53,6 +53,10 @@
     "updater": {
       "active": false
     },
+    "systemTray": {
+      "iconAsTemplate": true,
+      "iconPath": "assets/images/default.png"
+    },
     "windows": [
       {
         "fullscreen": false,
